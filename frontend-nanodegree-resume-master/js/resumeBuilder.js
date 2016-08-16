@@ -139,6 +139,7 @@ var projects = {
         "title": "Stage 2 make your own fill in the blanks Quiz",
         "dates": "August 2016",
         "description": "In intro to programming, created fill in the blanks quiz using python programming ",
+        "images": ["images/quiz.jpg", "images/quiz.jpg"]
 
     }],
     //display function for projects
