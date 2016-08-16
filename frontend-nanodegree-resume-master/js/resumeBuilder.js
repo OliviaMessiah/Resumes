@@ -110,7 +110,7 @@ var work = {
         "title": "Personal Stylist",
         "location": "Miami, FL",
         "dates": "April 2013 - May 2015",
-        "description": "Was an image consultant for over 30+ clients over a two week period".},{
+        "description": "Was an image consultant for over 30+ clients over a two week period"},{
         "employer": "ZS associates",
         "title": "Administrative asst. Intern",
         "location": "Chicago, IL",
