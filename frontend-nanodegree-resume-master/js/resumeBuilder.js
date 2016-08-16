@@ -1,1 +1,3 @@
-$("#main").append([Olivia King]);
+// $("#main").append([Olivia King]);
+// [string].replace([old],[new])
+
