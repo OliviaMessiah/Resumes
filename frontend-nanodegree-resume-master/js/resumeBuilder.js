@@ -93,9 +93,9 @@ var education = {
         //for online course
         for (var course = 0; course < education.onlineCourses.length; course++) {
             var ftitle = HTMLonlineTitle.replace("%data%", education.onlineCourses[course].title);
-            var fschool = HTMLonlineSchool.replace("%data%", education.onlineCourses[course].school);
-            var fdate = HTMLonlineDates.replace("%data%", education.onlineCourses[course].date);
-            var furl = HTMLonlineURL.replace("%data%", education.onlineCourses[course].url);
+            var fschool = HTMLonlineSchool.replace("%data%",);
+            var fdate = HTMLonlineDates.replace("%data%",);
+            var furl = HTMLonlineURL.replace("%data%",);
             $(".education-entry:last").append(HTMLonlineClasses);
             $(".education-entry:last").append(ftitle + fschool);
             $(".education-entry:last").append(fdate);
@@ -115,7 +115,7 @@ var work = {
         "title": "Administrative asst. Intern",
         "location": "Chicago, IL",
         "dates": "August 2013 - Current",
-        "description": "Resolve administrative problems by coordinating preparation of reports, analyzing data, and identifying solutions".}],
+        "description": "Resolve administrative problems by coordinating preparation of reports, analyzing data, and identifying solutions"}],
     //display function for work experience
     "display": function() {
         for (var job = 0; job < work.jobs.length; job++) {
