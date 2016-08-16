@@ -11,7 +11,7 @@ var bio = {
     },
     "welcomeMessage": "Thank you for visiting my resume!!",
     "skills": ["HTML", "CSS", "JavaScript", "SQL", "Python"],
-    "biopic": "n/a",
+    "biopic": "images/olivia.jpg",
     //display function for bio
     "display": function() {
         var formattedContact = [
